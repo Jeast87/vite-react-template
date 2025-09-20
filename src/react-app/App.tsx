@@ -1,4 +1,4 @@
-import NonProfitLanding from "./NonProfitLanding.jsx";
+import NonProfitLanding from "./NonProfitLanding";
 
 function App() {
   return <NonProfitLanding />;
